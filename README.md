@@ -4,7 +4,7 @@ Source Header files
 
 ----------------------------------
 File types: XML XSD HTML
-
+```code
 <!--
   Licensed to the Apache Software Foundation (ASF) under one
   or more contributor license agreements.  See the NOTICE file
@@ -22,10 +22,12 @@ File types: XML XSD HTML
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
+```
 
 ----------------------------------
 File types: SCRIPT PROPERTIES TEXT
 
+```code
 #!/usr/bin/env bash
 #
 # Licensed to the Apache Software Foundation (ASF) under one
@@ -44,9 +46,12 @@ File types: SCRIPT PROPERTIES TEXT
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+```
+
+
 ----------------------------------
 File type: JAVA JS
-
+```code
 /**
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -64,9 +69,11 @@ File type: JAVA JS
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ ```
 ----------------------------------
 File type: PYTHON
 
+```code
 #!/usr/bin/env python
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more
@@ -84,3 +91,4 @@ File type: PYTHON
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ----------------------------------
+```
